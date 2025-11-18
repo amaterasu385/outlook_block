@@ -1,0 +1,3260 @@
+[
+  {
+    "course": "CK 2a",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-04",
+    "endDate": "2025-09-25",
+    "notes": "Organisationstag: 26.09.25",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "CK 2a",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-24",
+    "endDate": "2025-12-12",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "CK 3a",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-04",
+    "endDate": "2025-09-25",
+    "notes": "Organisationstag: 26.09.25",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "CK 3a",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-24",
+    "endDate": "2025-12-12",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "CK 3b",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-04",
+    "endDate": "2025-09-25",
+    "notes": "Organisationstag: 26.09.25",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "CK 3b",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-24",
+    "endDate": "2025-12-12",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "KT 3a",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-04",
+    "endDate": "2025-09-25",
+    "notes": "Organisationstag: 26.09.25",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "KT 3a",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-24",
+    "endDate": "2025-12-12",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "PH 2a",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-04",
+    "endDate": "2025-09-25",
+    "notes": "Organisationstag: 26.09.25",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "PH 2a",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-24",
+    "endDate": "2025-12-12",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "UT 3a",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-04",
+    "endDate": "2025-09-25",
+    "notes": "Organisationstag: 26.09.25",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "UT 3a",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-24",
+    "endDate": "2025-12-12",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3a",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-04",
+    "endDate": "2025-09-25",
+    "notes": "Organisationstag: 26.09.25",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3a",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-24",
+    "endDate": "2025-12-12",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3b",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-04",
+    "endDate": "2025-09-25",
+    "notes": "Organisationstag: 26.09.25",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3b",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-24",
+    "endDate": "2025-12-12",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3c",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-04",
+    "endDate": "2025-09-25",
+    "notes": "Organisationstag: 26.09.25",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3c",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-24",
+    "endDate": "2025-12-12",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3d",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-04",
+    "endDate": "2025-09-25",
+    "notes": "Organisationstag: 26.09.25",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3d",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-24",
+    "endDate": "2025-12-12",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3e",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-04",
+    "endDate": "2025-09-25",
+    "notes": "Organisationstag: 26.09.25",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3e",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-24",
+    "endDate": "2025-12-12",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3f",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-04",
+    "endDate": "2025-09-25",
+    "notes": "Organisationstag: 26.09.25",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3f",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-24",
+    "endDate": "2025-12-12",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3g",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-04",
+    "endDate": "2025-09-25",
+    "notes": "Organisationstag: 26.09.25",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3g",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-24",
+    "endDate": "2025-12-12",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3h",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-04",
+    "endDate": "2025-09-25",
+    "notes": "Organisationstag: 26.09.25",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3h",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-24",
+    "endDate": "2025-12-12",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3i",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-04",
+    "endDate": "2025-09-25",
+    "notes": "Organisationstag: 26.09.25",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3i",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-24",
+    "endDate": "2025-12-12",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3j",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-04",
+    "endDate": "2025-09-25",
+    "notes": "Organisationstag: 26.09.25",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3j",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-24",
+    "endDate": "2025-12-12",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3k",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-04",
+    "endDate": "2025-09-25",
+    "notes": "Organisationstag: 26.09.25",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3k",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-24",
+    "endDate": "2025-12-12",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3l",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-04",
+    "endDate": "2025-09-25",
+    "notes": "Organisationstag: 26.09.25",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3l",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-24",
+    "endDate": "2025-12-12",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3m",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-04",
+    "endDate": "2025-09-25",
+    "notes": "Organisationstag: 26.09.25",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3m",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-24",
+    "endDate": "2025-12-12",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3n",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-04",
+    "endDate": "2025-09-25",
+    "notes": "Organisationstag: 26.09.25",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3n",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-24",
+    "endDate": "2025-12-12",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3o",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-04",
+    "endDate": "2025-09-25",
+    "notes": "Organisationstag: 26.09.25",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3o",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-24",
+    "endDate": "2025-12-12",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3p",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-04",
+    "endDate": "2025-09-25",
+    "notes": "Organisationstag: 26.09.25",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3p",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-24",
+    "endDate": "2025-12-12",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3s",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-04",
+    "endDate": "2025-09-25",
+    "notes": "Organisationstag: 26.09.25",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3s",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-24",
+    "endDate": "2025-12-12",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3x",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-04",
+    "endDate": "2025-09-25",
+    "notes": "Organisationstag: 26.09.25",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3x",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-24",
+    "endDate": "2025-12-12",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3y",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-04",
+    "endDate": "2025-09-25",
+    "notes": "Organisationstag: 26.09.25",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3y",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-24",
+    "endDate": "2025-12-12",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3z",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-04",
+    "endDate": "2025-09-25",
+    "notes": "Organisationstag: 26.09.25",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3z",
+    "blockType": "A-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-24",
+    "endDate": "2025-12-12",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "CK 4a",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-29",
+    "endDate": "2025-10-17",
+    "notes": "Herbstferien: 20.10. – 30.10.25",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "CK 4a",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-12-15",
+    "endDate": "2025-12-16",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "CK 4a",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-01-05",
+    "endDate": "2026-01-22",
+    "notes": "Weihnachtsferien: 17.12.25 – 02.01.26, Organisationstag: 23.01.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "CK 4b",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-29",
+    "endDate": "2025-10-17",
+    "notes": "Herbstferien: 20.10. – 30.10.25",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "CK 4b",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-12-15",
+    "endDate": "2025-12-16",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "CK 4b",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-01-05",
+    "endDate": "2026-01-22",
+    "notes": "Weihnachtsferien: 17.12.25 – 02.01.26, Organisationstag: 23.01.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "KT 4a",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-29",
+    "endDate": "2025-10-17",
+    "notes": "Herbstferien: 20.10. – 30.10.25",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "KT 4a",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-12-15",
+    "endDate": "2025-12-16",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "KT 4a",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-01-05",
+    "endDate": "2026-01-22",
+    "notes": "Weihnachtsferien: 17.12.25 – 02.01.26, Organisationstag: 23.01.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "PC 4a",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-29",
+    "endDate": "2025-10-17",
+    "notes": "Herbstferien: 20.10. – 30.10.25",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "PC 4a",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-12-15",
+    "endDate": "2025-12-16",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "PC 4a",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-01-05",
+    "endDate": "2026-01-22",
+    "notes": "Weihnachtsferien: 17.12.25 – 02.01.26, Organisationstag: 23.01.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "PH 4a",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-29",
+    "endDate": "2025-10-17",
+    "notes": "Herbstferien: 20.10. – 30.10.25",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "PH 4a",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-12-15",
+    "endDate": "2025-12-16",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "PH 4a",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-01-05",
+    "endDate": "2026-01-22",
+    "notes": "Weihnachtsferien: 17.12.25 – 02.01.26, Organisationstag: 23.01.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "UT 4a",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-29",
+    "endDate": "2025-10-17",
+    "notes": "Herbstferien: 20.10. – 30.10.25",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "UT 4a",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-12-15",
+    "endDate": "2025-12-16",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "UT 4a",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-01-05",
+    "endDate": "2026-01-22",
+    "notes": "Weihnachtsferien: 17.12.25 – 02.01.26, Organisationstag: 23.01.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4a",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-29",
+    "endDate": "2025-10-17",
+    "notes": "Herbstferien: 20.10. – 30.10.25",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4a",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-12-15",
+    "endDate": "2025-12-16",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4a",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-01-05",
+    "endDate": "2026-01-22",
+    "notes": "Weihnachtsferien: 17.12.25 – 02.01.26, Organisationstag: 23.01.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4b",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-29",
+    "endDate": "2025-10-17",
+    "notes": "Herbstferien: 20.10. – 30.10.25",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4b",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-12-15",
+    "endDate": "2025-12-16",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4b",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-01-05",
+    "endDate": "2026-01-22",
+    "notes": "Weihnachtsferien: 17.12.25 – 02.01.26, Organisationstag: 23.01.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4c",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-29",
+    "endDate": "2025-10-17",
+    "notes": "Herbstferien: 20.10. – 30.10.25",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4c",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-12-15",
+    "endDate": "2025-12-16",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4c",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-01-05",
+    "endDate": "2026-01-22",
+    "notes": "Weihnachtsferien: 17.12.25 – 02.01.26, Organisationstag: 23.01.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4d",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-29",
+    "endDate": "2025-10-17",
+    "notes": "Herbstferien: 20.10. – 30.10.25",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4d",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-12-15",
+    "endDate": "2025-12-16",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4d",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-01-05",
+    "endDate": "2026-01-22",
+    "notes": "Weihnachtsferien: 17.12.25 – 02.01.26, Organisationstag: 23.01.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4g",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-29",
+    "endDate": "2025-10-17",
+    "notes": "Herbstferien: 20.10. – 30.10.25",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4g",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-12-15",
+    "endDate": "2025-12-16",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4g",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-01-05",
+    "endDate": "2026-01-22",
+    "notes": "Weihnachtsferien: 17.12.25 – 02.01.26, Organisationstag: 23.01.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4h",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-29",
+    "endDate": "2025-10-17",
+    "notes": "Herbstferien: 20.10. – 30.10.25",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4h",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-12-15",
+    "endDate": "2025-12-16",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4h",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-01-05",
+    "endDate": "2026-01-22",
+    "notes": "Weihnachtsferien: 17.12.25 – 02.01.26, Organisationstag: 23.01.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4i",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-29",
+    "endDate": "2025-10-17",
+    "notes": "Herbstferien: 20.10. – 30.10.25",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4i",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-12-15",
+    "endDate": "2025-12-16",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4i",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-01-05",
+    "endDate": "2026-01-22",
+    "notes": "Weihnachtsferien: 17.12.25 – 02.01.26, Organisationstag: 23.01.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4j",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-29",
+    "endDate": "2025-10-17",
+    "notes": "Herbstferien: 20.10. – 30.10.25",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4j",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-12-15",
+    "endDate": "2025-12-16",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4j",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-01-05",
+    "endDate": "2026-01-22",
+    "notes": "Weihnachtsferien: 17.12.25 – 02.01.26, Organisationstag: 23.01.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4k",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-29",
+    "endDate": "2025-10-17",
+    "notes": "Herbstferien: 20.10. – 30.10.25",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4k",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-12-15",
+    "endDate": "2025-12-16",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4k",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-01-05",
+    "endDate": "2026-01-22",
+    "notes": "Weihnachtsferien: 17.12.25 – 02.01.26, Organisationstag: 23.01.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4l",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-29",
+    "endDate": "2025-10-17",
+    "notes": "Herbstferien: 20.10. – 30.10.25",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4l",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-12-15",
+    "endDate": "2025-12-16",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4l",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-01-05",
+    "endDate": "2026-01-22",
+    "notes": "Weihnachtsferien: 17.12.25 – 02.01.26, Organisationstag: 23.01.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4n",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-29",
+    "endDate": "2025-10-17",
+    "notes": "Herbstferien: 20.10. – 30.10.25",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4n",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-12-15",
+    "endDate": "2025-12-16",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4n",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-01-05",
+    "endDate": "2026-01-22",
+    "notes": "Weihnachtsferien: 17.12.25 – 02.01.26, Organisationstag: 23.01.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4o",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-29",
+    "endDate": "2025-10-17",
+    "notes": "Herbstferien: 20.10. – 30.10.25",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4o",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-12-15",
+    "endDate": "2025-12-16",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4o",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-01-05",
+    "endDate": "2026-01-22",
+    "notes": "Weihnachtsferien: 17.12.25 – 02.01.26, Organisationstag: 23.01.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4p",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-29",
+    "endDate": "2025-10-17",
+    "notes": "Herbstferien: 20.10. – 30.10.25",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4p",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-12-15",
+    "endDate": "2025-12-16",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4p",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-01-05",
+    "endDate": "2026-01-22",
+    "notes": "Weihnachtsferien: 17.12.25 – 02.01.26, Organisationstag: 23.01.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4r",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-29",
+    "endDate": "2025-10-17",
+    "notes": "Herbstferien: 20.10. – 30.10.25",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4r",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-12-15",
+    "endDate": "2025-12-16",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4r",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-01-05",
+    "endDate": "2026-01-22",
+    "notes": "Weihnachtsferien: 17.12.25 – 02.01.26, Organisationstag: 23.01.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4s",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-29",
+    "endDate": "2025-10-17",
+    "notes": "Herbstferien: 20.10. – 30.10.25",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4s",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-12-15",
+    "endDate": "2025-12-16",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4s",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-01-05",
+    "endDate": "2026-01-22",
+    "notes": "Weihnachtsferien: 17.12.25 – 02.01.26, Organisationstag: 23.01.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4x",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-29",
+    "endDate": "2025-10-17",
+    "notes": "Herbstferien: 20.10. – 30.10.25",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4x",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-12-15",
+    "endDate": "2025-12-16",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4x",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-01-05",
+    "endDate": "2026-01-22",
+    "notes": "Weihnachtsferien: 17.12.25 – 02.01.26, Organisationstag: 23.01.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4y",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-29",
+    "endDate": "2025-10-17",
+    "notes": "Herbstferien: 20.10. – 30.10.25",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4y",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-12-15",
+    "endDate": "2025-12-16",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4y",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-01-05",
+    "endDate": "2026-01-22",
+    "notes": "Weihnachtsferien: 17.12.25 – 02.01.26, Organisationstag: 23.01.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4z",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-29",
+    "endDate": "2025-10-17",
+    "notes": "Herbstferien: 20.10. – 30.10.25",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4z",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-12-15",
+    "endDate": "2025-12-16",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4z",
+    "blockType": "B-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-01-05",
+    "endDate": "2026-01-22",
+    "notes": "Weihnachtsferien: 17.12.25 – 02.01.26, Organisationstag: 23.01.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "A 2a",
+    "blockType": "C-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-03",
+    "endDate": "2025-11-21",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "A 2a",
+    "blockType": "C-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-01-26",
+    "endDate": "2026-02-13",
+    "notes": "Organisationstag: 23.01.26, Ferientag/Halbjahrespause: 30.01.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "CK 5a",
+    "blockType": "C-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-03",
+    "endDate": "2025-11-21",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "CK 5a",
+    "blockType": "C-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-01-26",
+    "endDate": "2026-02-13",
+    "notes": "Organisationstag: 23.01.26, Ferientag/Halbjahrespause: 30.01.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "CK 5b",
+    "blockType": "C-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-03",
+    "endDate": "2025-11-21",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "CK 5b",
+    "blockType": "C-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-01-26",
+    "endDate": "2026-02-13",
+    "notes": "Organisationstag: 23.01.26, Ferientag/Halbjahrespause: 30.01.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "KT 5a",
+    "blockType": "C-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-03",
+    "endDate": "2025-11-21",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "KT 5a",
+    "blockType": "C-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-01-26",
+    "endDate": "2026-02-13",
+    "notes": "Organisationstag: 23.01.26, Ferientag/Halbjahrespause: 30.01.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "PC 5a",
+    "blockType": "C-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-03",
+    "endDate": "2025-11-21",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "PC 5a",
+    "blockType": "C-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-01-26",
+    "endDate": "2026-02-13",
+    "notes": "Organisationstag: 23.01.26, Ferientag/Halbjahrespause: 30.01.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "PH 5a",
+    "blockType": "C-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-03",
+    "endDate": "2025-11-21",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "PH 5a",
+    "blockType": "C-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-01-26",
+    "endDate": "2026-02-13",
+    "notes": "Organisationstag: 23.01.26, Ferientag/Halbjahrespause: 30.01.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "UT 5a",
+    "blockType": "C-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-03",
+    "endDate": "2025-11-21",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "UT 5a",
+    "blockType": "C-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-01-26",
+    "endDate": "2026-02-13",
+    "notes": "Organisationstag: 23.01.26, Ferientag/Halbjahrespause: 30.01.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5a",
+    "blockType": "C-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-03",
+    "endDate": "2025-11-21",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5a",
+    "blockType": "C-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-01-26",
+    "endDate": "2026-02-13",
+    "notes": "Organisationstag: 23.01.26, Ferientag/Halbjahrespause: 30.01.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5b",
+    "blockType": "C-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-03",
+    "endDate": "2025-11-21",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5b",
+    "blockType": "C-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-01-26",
+    "endDate": "2026-02-13",
+    "notes": "Organisationstag: 23.01.26, Ferientag/Halbjahrespause: 30.01.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5c",
+    "blockType": "C-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-03",
+    "endDate": "2025-11-21",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5c",
+    "blockType": "C-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-01-26",
+    "endDate": "2026-02-13",
+    "notes": "Organisationstag: 23.01.26, Ferientag/Halbjahrespause: 30.01.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5d",
+    "blockType": "C-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-03",
+    "endDate": "2025-11-21",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5d",
+    "blockType": "C-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-01-26",
+    "endDate": "2026-02-13",
+    "notes": "Organisationstag: 23.01.26, Ferientag/Halbjahrespause: 30.01.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5g",
+    "blockType": "C-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-03",
+    "endDate": "2025-11-21",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5g",
+    "blockType": "C-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-01-26",
+    "endDate": "2026-02-13",
+    "notes": "Organisationstag: 23.01.26, Ferientag/Halbjahrespause: 30.01.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5h",
+    "blockType": "C-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-03",
+    "endDate": "2025-11-21",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5h",
+    "blockType": "C-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-01-26",
+    "endDate": "2026-02-13",
+    "notes": "Organisationstag: 23.01.26, Ferientag/Halbjahrespause: 30.01.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5i",
+    "blockType": "C-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-03",
+    "endDate": "2025-11-21",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5i",
+    "blockType": "C-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-01-26",
+    "endDate": "2026-02-13",
+    "notes": "Organisationstag: 23.01.26, Ferientag/Halbjahrespause: 30.01.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5j",
+    "blockType": "C-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-03",
+    "endDate": "2025-11-21",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5j",
+    "blockType": "C-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-01-26",
+    "endDate": "2026-02-13",
+    "notes": "Organisationstag: 23.01.26, Ferientag/Halbjahrespause: 30.01.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5k",
+    "blockType": "C-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-03",
+    "endDate": "2025-11-21",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5k",
+    "blockType": "C-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-01-26",
+    "endDate": "2026-02-13",
+    "notes": "Organisationstag: 23.01.26, Ferientag/Halbjahrespause: 30.01.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5l",
+    "blockType": "C-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-03",
+    "endDate": "2025-11-21",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5l",
+    "blockType": "C-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-01-26",
+    "endDate": "2026-02-13",
+    "notes": "Organisationstag: 23.01.26, Ferientag/Halbjahrespause: 30.01.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5n",
+    "blockType": "C-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-03",
+    "endDate": "2025-11-21",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5n",
+    "blockType": "C-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-01-26",
+    "endDate": "2026-02-13",
+    "notes": "Organisationstag: 23.01.26, Ferientag/Halbjahrespause: 30.01.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5o",
+    "blockType": "C-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-03",
+    "endDate": "2025-11-21",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5o",
+    "blockType": "C-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-01-26",
+    "endDate": "2026-02-13",
+    "notes": "Organisationstag: 23.01.26, Ferientag/Halbjahrespause: 30.01.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5p",
+    "blockType": "C-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-03",
+    "endDate": "2025-11-21",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5p",
+    "blockType": "C-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-01-26",
+    "endDate": "2026-02-13",
+    "notes": "Organisationstag: 23.01.26, Ferientag/Halbjahrespause: 30.01.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5r",
+    "blockType": "C-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-03",
+    "endDate": "2025-11-21",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5r",
+    "blockType": "C-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-01-26",
+    "endDate": "2026-02-13",
+    "notes": "Organisationstag: 23.01.26, Ferientag/Halbjahrespause: 30.01.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5s",
+    "blockType": "C-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-03",
+    "endDate": "2025-11-21",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5s",
+    "blockType": "C-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-01-26",
+    "endDate": "2026-02-13",
+    "notes": "Organisationstag: 23.01.26, Ferientag/Halbjahrespause: 30.01.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5x",
+    "blockType": "C-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-03",
+    "endDate": "2025-11-21",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5x",
+    "blockType": "C-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-01-26",
+    "endDate": "2026-02-13",
+    "notes": "Organisationstag: 23.01.26, Ferientag/Halbjahrespause: 30.01.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5y",
+    "blockType": "C-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-03",
+    "endDate": "2025-11-21",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5y",
+    "blockType": "C-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-01-26",
+    "endDate": "2026-02-13",
+    "notes": "Organisationstag: 23.01.26, Ferientag/Halbjahrespause: 30.01.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5z",
+    "blockType": "C-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-11-03",
+    "endDate": "2025-11-21",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5z",
+    "blockType": "C-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-01-26",
+    "endDate": "2026-02-13",
+    "notes": "Organisationstag: 23.01.26, Ferientag/Halbjahrespause: 30.01.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "BH 3a",
+    "blockType": "BHH-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-04",
+    "endDate": "2025-10-19",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "BH 3a",
+    "blockType": "BHH-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-02-02",
+    "endDate": "2026-04-05",
+    "notes": "Frühjahresferien: 28.02. – 15.03.2026",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "BH 3b",
+    "blockType": "BHH-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2025-09-04",
+    "endDate": "2025-10-19",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "BH 3b",
+    "blockType": "BHH-Block",
+    "semester": "Winterhalbjahr 2025/26",
+    "startDate": "2026-02-02",
+    "endDate": "2026-04-05",
+    "notes": "Frühjahresferien: 28.02. – 15.03.2026",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "CK 3a",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-02-16",
+    "endDate": "2026-02-27",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "CK 3a",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-16",
+    "endDate": "2026-03-20",
+    "notes": "Märzferien: 02.03. – 13.03.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "CK 3a",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-05-04",
+    "endDate": "2026-05-08",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "CK 3a",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-05-18",
+    "endDate": "2026-05-29",
+    "notes": "Maiferien: 11.05. – 15.05.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "CK 3b",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-02-16",
+    "endDate": "2026-02-27",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "CK 3b",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-16",
+    "endDate": "2026-03-20",
+    "notes": "Märzferien: 02.03. – 13.03.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "CK 3b",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-05-04",
+    "endDate": "2026-05-08",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "CK 3b",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-05-18",
+    "endDate": "2026-05-29",
+    "notes": "Maiferien: 11.05. – 15.05.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "KT 3a",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-02-16",
+    "endDate": "2026-02-27",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "KT 3a",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-16",
+    "endDate": "2026-03-20",
+    "notes": "Märzferien: 02.03. – 13.03.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "KT 3a",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-05-04",
+    "endDate": "2026-05-08",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "KT 3a",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-05-18",
+    "endDate": "2026-05-29",
+    "notes": "Maiferien: 11.05. – 15.05.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "UT 3a",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-02-16",
+    "endDate": "2026-02-27",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "UT 3a",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-16",
+    "endDate": "2026-03-20",
+    "notes": "Märzferien: 02.03. – 13.03.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "UT 3a",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-05-04",
+    "endDate": "2026-05-08",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "UT 3a",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-05-18",
+    "endDate": "2026-05-29",
+    "notes": "Maiferien: 11.05. – 15.05.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3a",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-02-16",
+    "endDate": "2026-02-27",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3a",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-16",
+    "endDate": "2026-03-20",
+    "notes": "Märzferien: 02.03. – 13.03.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3a",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-05-04",
+    "endDate": "2026-05-08",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3a",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-05-18",
+    "endDate": "2026-05-29",
+    "notes": "Maiferien: 11.05. – 15.05.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3b",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-02-16",
+    "endDate": "2026-02-27",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3b",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-16",
+    "endDate": "2026-03-20",
+    "notes": "Märzferien: 02.03. – 13.03.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3b",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-05-04",
+    "endDate": "2026-05-08",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3b",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-05-18",
+    "endDate": "2026-05-29",
+    "notes": "Maiferien: 11.05. – 15.05.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3c",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-02-16",
+    "endDate": "2026-02-27",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3c",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-16",
+    "endDate": "2026-03-20",
+    "notes": "Märzferien: 02.03. – 13.03.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3c",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-05-04",
+    "endDate": "2026-05-08",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3c",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-05-18",
+    "endDate": "2026-05-29",
+    "notes": "Maiferien: 11.05. – 15.05.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3d",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-02-16",
+    "endDate": "2026-02-27",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3d",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-16",
+    "endDate": "2026-03-20",
+    "notes": "Märzferien: 02.03. – 13.03.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3d",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-05-04",
+    "endDate": "2026-05-08",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3d",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-05-18",
+    "endDate": "2026-05-29",
+    "notes": "Maiferien: 11.05. – 15.05.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3e",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-02-16",
+    "endDate": "2026-02-27",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3e",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-16",
+    "endDate": "2026-03-20",
+    "notes": "Märzferien: 02.03. – 13.03.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3e",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-05-04",
+    "endDate": "2026-05-08",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3e",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-05-18",
+    "endDate": "2026-05-29",
+    "notes": "Maiferien: 11.05. – 15.05.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3g",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-02-16",
+    "endDate": "2026-02-27",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3g",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-16",
+    "endDate": "2026-03-20",
+    "notes": "Märzferien: 02.03. – 13.03.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3g",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-05-04",
+    "endDate": "2026-05-08",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3g",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-05-18",
+    "endDate": "2026-05-29",
+    "notes": "Maiferien: 11.05. – 15.05.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3h",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-02-16",
+    "endDate": "2026-02-27",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3h",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-16",
+    "endDate": "2026-03-20",
+    "notes": "Märzferien: 02.03. – 13.03.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3h",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-05-04",
+    "endDate": "2026-05-08",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3h",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-05-18",
+    "endDate": "2026-05-29",
+    "notes": "Maiferien: 11.05. – 15.05.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3i",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-02-16",
+    "endDate": "2026-02-27",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3i",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-16",
+    "endDate": "2026-03-20",
+    "notes": "Märzferien: 02.03. – 13.03.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3i",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-05-04",
+    "endDate": "2026-05-08",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3i",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-05-18",
+    "endDate": "2026-05-29",
+    "notes": "Maiferien: 11.05. – 15.05.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3j",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-02-16",
+    "endDate": "2026-02-27",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3j",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-16",
+    "endDate": "2026-03-20",
+    "notes": "Märzferien: 02.03. – 13.03.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3j",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-05-04",
+    "endDate": "2026-05-08",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3j",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-05-18",
+    "endDate": "2026-05-29",
+    "notes": "Maiferien: 11.05. – 15.05.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3k",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-02-16",
+    "endDate": "2026-02-27",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3k",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-16",
+    "endDate": "2026-03-20",
+    "notes": "Märzferien: 02.03. – 13.03.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3k",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-05-04",
+    "endDate": "2026-05-08",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3k",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-05-18",
+    "endDate": "2026-05-29",
+    "notes": "Maiferien: 11.05. – 15.05.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3l",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-02-16",
+    "endDate": "2026-02-27",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3l",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-16",
+    "endDate": "2026-03-20",
+    "notes": "Märzferien: 02.03. – 13.03.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3l",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-05-04",
+    "endDate": "2026-05-08",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3l",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-05-18",
+    "endDate": "2026-05-29",
+    "notes": "Maiferien: 11.05. – 15.05.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3n",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-02-16",
+    "endDate": "2026-02-27",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3n",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-16",
+    "endDate": "2026-03-20",
+    "notes": "Märzferien: 02.03. – 13.03.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3n",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-05-04",
+    "endDate": "2026-05-08",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3n",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-05-18",
+    "endDate": "2026-05-29",
+    "notes": "Maiferien: 11.05. – 15.05.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3o",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-02-16",
+    "endDate": "2026-02-27",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3o",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-16",
+    "endDate": "2026-03-20",
+    "notes": "Märzferien: 02.03. – 13.03.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3o",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-05-04",
+    "endDate": "2026-05-08",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3o",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-05-18",
+    "endDate": "2026-05-29",
+    "notes": "Maiferien: 11.05. – 15.05.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3p",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-02-16",
+    "endDate": "2026-02-27",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3p",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-16",
+    "endDate": "2026-03-20",
+    "notes": "Märzferien: 02.03. – 13.03.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3p",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-05-04",
+    "endDate": "2026-05-08",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3p",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-05-18",
+    "endDate": "2026-05-29",
+    "notes": "Maiferien: 11.05. – 15.05.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3r",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-02-16",
+    "endDate": "2026-02-27",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3r",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-16",
+    "endDate": "2026-03-20",
+    "notes": "Märzferien: 02.03. – 13.03.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3r",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-05-04",
+    "endDate": "2026-05-08",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3r",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-05-18",
+    "endDate": "2026-05-29",
+    "notes": "Maiferien: 11.05. – 15.05.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3s",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-02-16",
+    "endDate": "2026-02-27",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3s",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-16",
+    "endDate": "2026-03-20",
+    "notes": "Märzferien: 02.03. – 13.03.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3s",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-05-04",
+    "endDate": "2026-05-08",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 3s",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-05-18",
+    "endDate": "2026-05-29",
+    "notes": "Maiferien: 11.05. – 15.05.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4x",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-02-16",
+    "endDate": "2026-02-27",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4x",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-16",
+    "endDate": "2026-03-20",
+    "notes": "Märzferien: 02.03. – 13.03.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4x",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-05-04",
+    "endDate": "2026-05-08",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4x",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-05-18",
+    "endDate": "2026-05-29",
+    "notes": "Maiferien: 11.05. – 15.05.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4y",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-02-16",
+    "endDate": "2026-02-27",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4y",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-16",
+    "endDate": "2026-03-20",
+    "notes": "Märzferien: 02.03. – 13.03.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4y",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-05-04",
+    "endDate": "2026-05-08",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4y",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-05-18",
+    "endDate": "2026-05-29",
+    "notes": "Maiferien: 11.05. – 15.05.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4z",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-02-16",
+    "endDate": "2026-02-27",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4z",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-16",
+    "endDate": "2026-03-20",
+    "notes": "Märzferien: 02.03. – 13.03.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4z",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-05-04",
+    "endDate": "2026-05-08",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4z",
+    "blockType": "A-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-05-18",
+    "endDate": "2026-05-29",
+    "notes": "Maiferien: 11.05. – 15.05.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "CK 4a",
+    "blockType": "B-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-02",
+    "endDate": "2026-03-13",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "CK 4a",
+    "blockType": "B-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-06-01",
+    "endDate": "2026-06-19",
+    "notes": "Organisationstag: 22.06.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "CK 4b",
+    "blockType": "B-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-02",
+    "endDate": "2026-03-13",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "CK 4b",
+    "blockType": "B-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-06-01",
+    "endDate": "2026-06-19",
+    "notes": "Organisationstag: 22.06.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "KT 4a",
+    "blockType": "B-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-02",
+    "endDate": "2026-03-13",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "KT 4a",
+    "blockType": "B-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-06-01",
+    "endDate": "2026-06-19",
+    "notes": "Organisationstag: 22.06.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "PH 4a",
+    "blockType": "B-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-02",
+    "endDate": "2026-03-13",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "PH 4a",
+    "blockType": "B-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-06-01",
+    "endDate": "2026-06-19",
+    "notes": "Organisationstag: 22.06.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "UT 4a",
+    "blockType": "B-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-02",
+    "endDate": "2026-03-13",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "UT 4a",
+    "blockType": "B-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-06-01",
+    "endDate": "2026-06-19",
+    "notes": "Organisationstag: 22.06.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4a",
+    "blockType": "B-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-02",
+    "endDate": "2026-03-13",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4a",
+    "blockType": "B-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-06-01",
+    "endDate": "2026-06-19",
+    "notes": "Organisationstag: 22.06.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4b",
+    "blockType": "B-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-02",
+    "endDate": "2026-03-13",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4b",
+    "blockType": "B-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-06-01",
+    "endDate": "2026-06-19",
+    "notes": "Organisationstag: 22.06.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4c",
+    "blockType": "B-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-02",
+    "endDate": "2026-03-13",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4c",
+    "blockType": "B-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-06-01",
+    "endDate": "2026-06-19",
+    "notes": "Organisationstag: 22.06.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4d",
+    "blockType": "B-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-02",
+    "endDate": "2026-03-13",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4d",
+    "blockType": "B-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-06-01",
+    "endDate": "2026-06-19",
+    "notes": "Organisationstag: 22.06.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4g",
+    "blockType": "B-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-02",
+    "endDate": "2026-03-13",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4g",
+    "blockType": "B-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-06-01",
+    "endDate": "2026-06-19",
+    "notes": "Organisationstag: 22.06.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4h",
+    "blockType": "B-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-02",
+    "endDate": "2026-03-13",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4h",
+    "blockType": "B-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-06-01",
+    "endDate": "2026-06-19",
+    "notes": "Organisationstag: 22.06.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4i",
+    "blockType": "B-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-02",
+    "endDate": "2026-03-13",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4i",
+    "blockType": "B-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-06-01",
+    "endDate": "2026-06-19",
+    "notes": "Organisationstag: 22.06.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4j",
+    "blockType": "B-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-02",
+    "endDate": "2026-03-13",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4j",
+    "blockType": "B-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-06-01",
+    "endDate": "2026-06-19",
+    "notes": "Organisationstag: 22.06.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4k",
+    "blockType": "B-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-02",
+    "endDate": "2026-03-13",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4k",
+    "blockType": "B-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-06-01",
+    "endDate": "2026-06-19",
+    "notes": "Organisationstag: 22.06.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4l",
+    "blockType": "B-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-02",
+    "endDate": "2026-03-13",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4l",
+    "blockType": "B-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-06-01",
+    "endDate": "2026-06-19",
+    "notes": "Organisationstag: 22.06.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4n",
+    "blockType": "B-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-02",
+    "endDate": "2026-03-13",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4n",
+    "blockType": "B-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-06-01",
+    "endDate": "2026-06-19",
+    "notes": "Organisationstag: 22.06.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4o",
+    "blockType": "B-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-02",
+    "endDate": "2026-03-13",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4o",
+    "blockType": "B-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-06-01",
+    "endDate": "2026-06-19",
+    "notes": "Organisationstag: 22.06.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4p",
+    "blockType": "B-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-02",
+    "endDate": "2026-03-13",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4p",
+    "blockType": "B-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-06-01",
+    "endDate": "2026-06-19",
+    "notes": "Organisationstag: 22.06.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4r",
+    "blockType": "B-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-02",
+    "endDate": "2026-03-13",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4r",
+    "blockType": "B-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-06-01",
+    "endDate": "2026-06-19",
+    "notes": "Organisationstag: 22.06.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4s",
+    "blockType": "B-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-02",
+    "endDate": "2026-03-13",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 4s",
+    "blockType": "B-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-06-01",
+    "endDate": "2026-06-19",
+    "notes": "Organisationstag: 22.06.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5x",
+    "blockType": "B-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-02",
+    "endDate": "2026-03-13",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5x",
+    "blockType": "B-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-06-01",
+    "endDate": "2026-06-19",
+    "notes": "Organisationstag: 22.06.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5y",
+    "blockType": "B-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-02",
+    "endDate": "2026-03-13",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5y",
+    "blockType": "B-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-06-01",
+    "endDate": "2026-06-19",
+    "notes": "Organisationstag: 22.06.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5z",
+    "blockType": "B-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-02",
+    "endDate": "2026-03-13",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5z",
+    "blockType": "B-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-06-01",
+    "endDate": "2026-06-19",
+    "notes": "Organisationstag: 22.06.26",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "CK 5a",
+    "blockType": "C-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-23",
+    "endDate": "2026-04-17",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "CK 5a",
+    "blockType": "C-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-06-22",
+    "endDate": "2026-07-10",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "CK 5b",
+    "blockType": "C-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-23",
+    "endDate": "2026-04-17",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "CK 5b",
+    "blockType": "C-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-06-22",
+    "endDate": "2026-07-10",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "KT 5a",
+    "blockType": "C-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-23",
+    "endDate": "2026-04-17",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "KT 5a",
+    "blockType": "C-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-06-22",
+    "endDate": "2026-07-10",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "PH 5a",
+    "blockType": "C-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-23",
+    "endDate": "2026-04-17",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "PH 5a",
+    "blockType": "C-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-06-22",
+    "endDate": "2026-07-10",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "UT 5a",
+    "blockType": "C-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-23",
+    "endDate": "2026-04-17",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "UT 5a",
+    "blockType": "C-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-06-22",
+    "endDate": "2026-07-10",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5a",
+    "blockType": "C-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-23",
+    "endDate": "2026-04-17",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5a",
+    "blockType": "C-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-06-22",
+    "endDate": "2026-07-10",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5b",
+    "blockType": "C-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-23",
+    "endDate": "2026-04-17",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5b",
+    "blockType": "C-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-06-22",
+    "endDate": "2026-07-10",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5c",
+    "blockType": "C-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-23",
+    "endDate": "2026-04-17",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5c",
+    "blockType": "C-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-06-22",
+    "endDate": "2026-07-10",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5d",
+    "blockType": "C-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-23",
+    "endDate": "2026-04-17",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5d",
+    "blockType": "C-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-06-22",
+    "endDate": "2026-07-10",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5g",
+    "blockType": "C-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-23",
+    "endDate": "2026-04-17",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5g",
+    "blockType": "C-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-06-22",
+    "endDate": "2026-07-10",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5h",
+    "blockType": "C-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-23",
+    "endDate": "2026-04-17",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5h",
+    "blockType": "C-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-06-22",
+    "endDate": "2026-07-10",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5i",
+    "blockType": "C-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-23",
+    "endDate": "2026-04-17",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5i",
+    "blockType": "C-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-06-22",
+    "endDate": "2026-07-10",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5j",
+    "blockType": "C-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-23",
+    "endDate": "2026-04-17",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5j",
+    "blockType": "C-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-06-22",
+    "endDate": "2026-07-10",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5k",
+    "blockType": "C-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-23",
+    "endDate": "2026-04-17",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5k",
+    "blockType": "C-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-06-22",
+    "endDate": "2026-07-10",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5l",
+    "blockType": "C-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-23",
+    "endDate": "2026-04-17",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5l",
+    "blockType": "C-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-06-22",
+    "endDate": "2026-07-10",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5n",
+    "blockType": "C-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-23",
+    "endDate": "2026-04-17",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5n",
+    "blockType": "C-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-06-22",
+    "endDate": "2026-07-10",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5o",
+    "blockType": "C-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-23",
+    "endDate": "2026-04-17",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5o",
+    "blockType": "C-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-06-22",
+    "endDate": "2026-07-10",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5p",
+    "blockType": "C-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-23",
+    "endDate": "2026-04-17",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5p",
+    "blockType": "C-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-06-22",
+    "endDate": "2026-07-10",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5r",
+    "blockType": "C-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-23",
+    "endDate": "2026-04-17",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5r",
+    "blockType": "C-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-06-22",
+    "endDate": "2026-07-10",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5s",
+    "blockType": "C-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-23",
+    "endDate": "2026-04-17",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 5s",
+    "blockType": "C-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-06-22",
+    "endDate": "2026-07-10",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 6x",
+    "blockType": "C-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-23",
+    "endDate": "2026-04-17",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 6x",
+    "blockType": "C-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-06-22",
+    "endDate": "2026-07-10",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 6y",
+    "blockType": "C-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-23",
+    "endDate": "2026-04-17",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 6y",
+    "blockType": "C-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-06-22",
+    "endDate": "2026-07-10",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 6z",
+    "blockType": "C-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-03-23",
+    "endDate": "2026-04-17",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  },
+  {
+    "course": "IT 6z",
+    "blockType": "C-Block",
+    "semester": "Sommerhalbjahr 2026",
+    "startDate": "2026-06-22",
+    "endDate": "2026-07-10",
+    "notes": "",
+    "source": "ITECH Blockplanung (Parsed)"
+  }
+]
