@@ -4,23 +4,6 @@
 
 Eine moderne Web-Plattform zum Buchen von Terminen und Abwesenheitsmeldungen in Outlook-Kalender über die Microsoft Graph API.
 
-## 🚀 Schnellstart
-
-```bash
-# 1. Umgebung einrichten
-setup-env.bat
-
-# 2. Microsoft Credentials in .env eintragen
-
-# 3. Backend starten
-start-backend.bat
-
-# 4. Frontend starten (neues Terminal)
-start-frontend.bat
-
-# 5. Browser öffnen: http://localhost:3001
-```
-
 ## 🚀 Features
 
 - ✅ **Web-basierte Benutzeroberfläche** - Moderne, responsive Design
